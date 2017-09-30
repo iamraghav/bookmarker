@@ -1,0 +1,12 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "a simple vanilla js to add and store bookmarks",
+  "main": "main.js",
+  "author": "raghav",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}
